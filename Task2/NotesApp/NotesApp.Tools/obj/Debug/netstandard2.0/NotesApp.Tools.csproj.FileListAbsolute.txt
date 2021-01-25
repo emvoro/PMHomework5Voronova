@@ -1,0 +1,9 @@
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\bin\Debug\netstandard2.0\NotesApp.Tools.deps.json
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\bin\Debug\netstandard2.0\NotesApp.Tools.dll
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\bin\Debug\netstandard2.0\NotesApp.Tools.pdb
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\obj\Debug\netstandard2.0\NotesApp.Tools.csprojAssemblyReference.cache
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\obj\Debug\netstandard2.0\NotesApp.Tools.AssemblyInfoInputs.cache
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\obj\Debug\netstandard2.0\NotesApp.Tools.AssemblyInfo.cs
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\obj\Debug\netstandard2.0\NotesApp.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\obj\Debug\netstandard2.0\NotesApp.Tools.dll
+C:\Users\Emily\Downloads\NotesApp\pm-academy-demo-main\dotNet\HomeWorks\HomeWork5\NotesApp\NotesApp.Tools\obj\Debug\netstandard2.0\NotesApp.Tools.pdb

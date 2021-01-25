@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6ahwv6F/r7eT84URqdF//L4uuWFvrXMRJ8T4r9CWA2rtphxGhgzhpAvrDhfxaoGQWCH4Mf0+bBNUS0hYVec3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emily\\Downloads\\NotesApp\\pm-academy-demo-main\\dotNet\\HomeWorks\\HomeWork5\\Task2\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
